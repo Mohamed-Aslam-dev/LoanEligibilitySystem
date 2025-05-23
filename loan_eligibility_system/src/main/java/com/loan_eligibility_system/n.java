@@ -1,6 +1,5 @@
 package com.loan_eligibility_system;
 
-public class N {
+public class n {
 
-	int i;
 }
