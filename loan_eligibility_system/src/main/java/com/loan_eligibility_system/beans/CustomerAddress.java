@@ -15,7 +15,6 @@ public class CustomerAddress {
 	private String streetName;
 	private String area;
 	private String city;
-	private String djsk;
 	
 	@OneToOne(mappedBy = "customerAddress")
 	private LoanApplyPersonalData loanApplyPersonalData;
